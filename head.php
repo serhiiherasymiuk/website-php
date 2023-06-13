@@ -8,6 +8,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 </head>
 <body>
 <?php include $_SERVER["DOCUMENT_ROOT"] . "/header.php"; ?>
